@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/swayam1998/swayam1998/main/swayam.svg" alt="Swayamjeet Swain" />
+</h1>
 
-<!--
-**swayam1998/swayam1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Swain. I am an engineer.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- ⚙️ React, React Native, Express, NodeJs
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, MongoDb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@swayuuum](https://twitter.com/swayuuum) on Twitter
