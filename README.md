@@ -11,4 +11,5 @@ I'm Swain. I am an engineer, I build stuff. Using machines to solve problems mak
 - 💽 MySQL, SQL, MongoDb
 
 ## Contact
+- [swayam1998@gmail.com](mailto:swayam1998@gmail.com?subject=Hello%20There) Email
 - [@swayuuum](https://twitter.com/swayuuum) on Twitter
