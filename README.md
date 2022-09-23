@@ -7,8 +7,8 @@ I'm Swain. I am an engineer, I build stuff. Using machines to solve problems mak
 
 ## Skills
 - 👨‍💻 JavaScript, TypeScript, PHP, C#, Python, C++
-- ⚙️ React, React Native, Express, NodeJs, BullMQ
-- 💽 MySQL, SQL, MongoDb, Redis, Sequelize
+- ⚙️ React, React Native, Express, NodeJs, NestJs
+- 💽 MySQL, SQL, MongoDb, Redis, Sequelize, TypeOrm, Prisma
 
 ## Contact
 - [swayam1998@gmail.com](mailto:swayam1998@gmail.com?subject=Hello%20There) Email
